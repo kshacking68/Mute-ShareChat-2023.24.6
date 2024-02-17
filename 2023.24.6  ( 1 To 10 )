@@ -55,13 +55,13 @@ This App Is Very Important Hence It's Price Is A Bit High
   
   "Update_Type": "true",
   
-  "New_Version": "2023.24.6",
+  "New_Version": "2023.24.5",
   
   "Show_Time": "0",
   
   
   
-  "isCancelable": "false",
+  "isCancelable": "true",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
